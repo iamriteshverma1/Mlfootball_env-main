@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "archive": "D:\\Project\\Mlfootball_env-main\\participants\\dist\\my-team.zip",
+  "sha256": "948a9e802c7a8dd2d29788321c86f2c587e0ee9255362448ca7e897f02a8cc85",
+  "team_name": "Vectronyx",
+  "command": [
+    "python",
+    "-m",
+    "team_bot.bot",
+    "--model",
+    "team_bot/models/trained_policy.json"
+  ],
+  "compressed_bytes": 3253669,
+  "uncompressed_bytes": 14710938,
+  "file_count": 7,
+  "dependencies": [],
+  "model_files": [
+    "team_bot/models/trained_policy.json"
+  ],
+  "errors": [],
+  "warnings": []
+}
